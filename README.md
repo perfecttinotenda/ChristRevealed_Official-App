@@ -1,7 +1,7 @@
 # ChristRevealedMinistries
 ### [Live Site](https://christ-revealed-official-app.vercel.app/)
 
-![ChristRevealedMinistries](#)
+![ChristRevealedMinistries](https://drive.google.com/file/d/14gr-BAHdRekoWHRy6ApK0W-Or4UX2Sgj/view?usp=sharing)
 
 ## Stay up to date with new projects
 New major projects coming soon.
